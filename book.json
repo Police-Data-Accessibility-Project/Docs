@@ -1,0 +1,11 @@
+{
+  "plugins": [ "rss" ],
+  "pluginsConfig": {
+    "rss": {
+      "title": "PDAP Blog",
+      "site_url": "http://pdap.io/",
+      "feed_url": "https://docs.pdap.io/updates/blog"
+      ]
+    }
+  }
+}

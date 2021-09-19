@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "gitbook-plugin-rss": "^3.0.2"
+  }
+}
